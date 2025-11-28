@@ -1,0 +1,8 @@
+{
+  "name": "Live Studio Assistant",
+  "description": "A real-time AI co-host for live streamers. It watches and listens to your stream to provide instant suggestions, questions, and topic deep-dives.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
